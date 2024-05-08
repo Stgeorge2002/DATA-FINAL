@@ -1,4 +1,4 @@
-/b Data and code for my research project.
+**Data and code for my research project.**
 
 /DAVID - contains the results for the DAVID (Sherman et al., 2022) analysis for each result/method mentioned in the report. 
 The others are the code i used to perform everything mentioned in the report, and below are the links to the Glaxay (Afgan et al., 2022) workflow and history; where 'finer' is a workflow using the best methods gathered from the previous workflow with a 'greater' number of these methods. 
