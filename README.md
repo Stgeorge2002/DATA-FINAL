@@ -11,7 +11,7 @@ workflow (greater) - https://usegalaxy.eu/u/af29df0dbb06431ab990be03b31e5572/w/f
 
 history - https://usegalaxy.eu/u/af29df0dbb06431ab990be03b31e5572/h/yep
 
-References:
+**References:**
 
 Afgan, E., Nekrutenko, A., Grüning, B.A., Blankenberg, D., Goecks, J., Schatz, M.C., Ostrovsky, A.E., Mahmoud, A., Lonie, A.J., Syme, A., Fouilloux, A., Bretaudeau, A., Nekrutenko, A., Kumar, A., Eschenlauer, A.C., DeSanto, A.D., Guerler, A., Serrano-Solano, B., Batut, B. and Grüning, B.A., 2022. The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2022 update [Online]. Nucleic Acids Research, 50(W1). Available from: https://doi.org/10.1093/nar/gkac247.
 
